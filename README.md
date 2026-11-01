@@ -1,0 +1,1 @@
+# cihaz-bilgisi
